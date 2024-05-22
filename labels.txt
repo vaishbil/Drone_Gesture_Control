@@ -1,0 +1,8 @@
+0 Takeoff
+1 Land
+2 Forward
+3 Backward
+4 Left
+5 Right
+6 Increased Height
+7 Decreased Height
